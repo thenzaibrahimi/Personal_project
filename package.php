@@ -35,8 +35,158 @@
 
 
 <div class="heading" style="background:url(images/headng-bg-3.png) no-repeat">
-    <h1>Book now</h1>
+    <h1>Packages</h1>
 </div>
+
+<!-- packages section starts -->
+ <section class="packages">
+    <h1 class="heading-title">Top destionations</h1>
+
+    <div class="box-container">
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-5.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-7.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-8.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-9.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-10.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-11.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <div class="image">
+                <img src="images/imh-12.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, hic!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="load-more"><span class="btn">Load more </span></div>
+ </section>
+<!-- packages section ends -->
 
 
 

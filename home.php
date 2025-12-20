@@ -88,32 +88,32 @@
     <div class="box-container">
 
     <div class="box">
-        <img src="images/icon-1.png" alt="">
+        <img src="images/icon-1.jpg" alt="">
         <h3>Adventure</h3>
     </div> 
 
     <div class="box">
-        <img src="images/icon-2.png" alt="">
+        <img src="images/icon-2.jpg" alt="">
         <h3>Tour guide</h3>
     </div>
 
     <div class="box">
-        <img src="images/icon-3.png" alt="">
+        <img src="images/icon-3.jpg" alt="">
         <h3>Trekking</h3>
     </div>
 
     <div class="box">
-        <img src="images/icon-4.png" alt="">
+        <img src="images/icon-4.jpg" alt="">
         <h3>Camp</h3>
     </div>
 
     <div class="box">
-        <img src="images/icon-5.png" alt="">
+        <img src="images/icon-5.jpg" alt="">
         <h3>Off road</h3>
     </div>
 
     <div class="box">
-        <img src="images/icon-6.png" alt="">
+        <img src="images/icon-6.jpg" alt="">
         <h3>Camping</h3>
     </div>
 
@@ -148,7 +148,7 @@
 
 <!-- home package section starts -->
  <section clas="home-packages">
-    <h1 class="heading-title"> Our packages </h1>
+    <h1 class="heading"> Our packages </h1>
 
     <div class="box-container">
         <div class="box">
@@ -279,7 +279,7 @@
                 voluptate expedita aliquam in amet.</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-1.png" alt="">
+                <img src="images/pic-1.jpg" alt="">
             </div>
 
 
@@ -298,7 +298,7 @@
                    numquam expedita, doloribus iste minus.</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-2.png" alt="">
+                <img src="images/pic-2.jpg" alt="">
             </div>
 
 
@@ -316,7 +316,7 @@
                 voluptate expedita aliquam in amet.</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-3.png" alt="">
+                <img src="images/pic-3.jpg" alt="">
             </div>
 
 
@@ -333,7 +333,7 @@
                    Libero dicta numquam culpa deleniti minima quia.</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-4.png" alt="">
+                <img src="images/pic-4.jpg" alt="">
             </div>
 
 
@@ -350,7 +350,7 @@
                    repellat quis totam perspiciatis quibusdam laudantium aut vitae.</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-5.png" alt="">
+                <img src="images/pic-5.jpg" alt="">
             </div>
 
 
@@ -364,7 +364,7 @@
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus reprehenderit accusamus odit minima? Quis iusto optio eligendi commodi dolorum consequuntur!</p>
                 <h3>John deo</h3>
                 <span>Traveler</span>
-                <img src="images/pic-6.png" alt="">
+                <img src="images/pic-6.jpg" alt="">
             </div>
 
 
