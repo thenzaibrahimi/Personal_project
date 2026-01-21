@@ -1,6 +1,7 @@
-<?php
-$stmt = $conn->query("SELECT COUNT (*) FROM students");
-$total = $stmt->fetchColumn();
-?>
-
-<h2> Total Students: <?=$total ?></h2>
+<?php include "header.php"; ?>
+<div class="hero">
+<h1>Welcome to FoodZone</h1>
+<p>PHP & MySQL Food Project</p>
+<a href="foods.php" class="btn btn-warning">View Menu</a>
+</div>
+<?php include "footer.php"; ?>

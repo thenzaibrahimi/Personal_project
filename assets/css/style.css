@@ -1,0 +1,5 @@
+body { background:#f8f9fa; font-family:Arial; }
+.hero { background:#212529; color:white; padding:80px 0; text-align:center; }
+.food-card { transition:.3s; }
+.food-card:hover { transform:scale(1.05); }
+.food-card img { height:200px; object-fit:cover; }
